@@ -2,3 +2,5 @@
 .idea/
 target/
 spring-boot-upload-files-angular-4.iml
+src/main/resources/static/
+src/main/resources/templates/
