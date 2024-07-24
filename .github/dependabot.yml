@@ -1,7 +1,7 @@
 version: 2
 updates:
   - package-ecosystem: maven
-    directory: "/"
+    directory: "/SpringBootUploadFile"
     schedule:
       interval: daily
       time: '21:00'
